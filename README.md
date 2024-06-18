@@ -11,7 +11,6 @@ login.
 You can fully copy or redistribute any part including assets, no License or
 credit required. (Optional if you end up using it can provide link to my
 webiste as it would help me to gain more traffic. It's totally optional).
-This Project uses MIT license.
 
 ## Information
 
